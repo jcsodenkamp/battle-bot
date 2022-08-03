@@ -1,0 +1,36 @@
+
+body {
+    background-color: black;
+    background-image: url('/background.jpeg') ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    margin: 0px auto;
+    display: block;        
+}
+
+p {
+    color: orange;
+    text-align: center;
+    margin: 0px auto;;
+    display: block;
+}
+
+div {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: orange;
+}
+
